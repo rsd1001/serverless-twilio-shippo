@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mootrichard/serverless-twilio-shippo.git"
+    "url": "git+https://github.com/rsd1001/serverless-twilio-shippo.git"
   },
   "keywords": [
     "Shippo",
@@ -19,9 +19,9 @@
   "author": "Richard Moot",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mootrichard/serverless-twilio-shippo/issues"
+    "url": "https://github.com/rsd1001/serverless-twilio-shippo/issues"
   },
-  "homepage": "https://github.com/mootrichard/serverless-twilio-shippo#readme",
+  "homepage": "https://github.com/rsd1001/serverless-twilio-shippo#readme",
   "dependencies": {
     "twilio": "^2.11.1"
   }
